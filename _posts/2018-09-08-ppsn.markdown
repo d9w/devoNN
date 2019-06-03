@@ -1,0 +1,38 @@
+---
+layout: post
+title: "First Workshop on Developmental Neural Networks"
+date: 2018-09-08
+---
+
+The First Workshop on Developmental Neural Networks was held as part of the 15th
+International Conference on Parallel Problem Solving from Nature (PPSN 2018),
+Coimbra, Portugal
+
+# Submission
++ Format and page length: up to 4 page PDF file in LNCS format
++ Deadline: May 21, 2018
++ Notification: June 21, 2018
++ How to submit: by email to the workshop organizers
+
+# Details
+ + Workshop date: 9 September 2018
+ + Duration/Time: half-day
+ + Location: Coimbra, Portugal
+
+# Schedule
+
+14:00-14:10 | **Introduction**
+  | Dennis G. Wilson, Julian F. Miller, and Sylvain Cussat-Blanc
+14:10-15:10 | **The Secret Life of Neurons: From Birth to Adulthood**
+  | Keynote by Sophie Pautot
+15:10-15:30 | [**Evolving Programs that Build Neural Networks for Multiple Problems**](/devonn/files/ppsn2018-miller.pdf)
+  | Julian F. Miller, Dennis G. Wilson, and Sylvain Cussat-Blanc
+15:30-16:00 | **Break**
+ | 
+16:00-16:20 | [**Distance-based Kernels for Surrogate Model-based Neuroevolution**](/devonn/files/Stor18a.pdf)
+  | Jörg Stork, Martin Zaefferer, and Thomas Bartz-Beielstein
+16:20-16:40 | [**Minimum Requirements for an Artificial Rat**](/devonn/files/ppsn_short_2018_CrC.pdf)
+  | Yile Ying, Alex Rose, Abubakar Siddique, and Will N. Browne
+16:40-17:00 | [**A Gene Regulatory Network Model for Axon Guidance**](/devonn/files/wilson_grn.pdf)
+  | Dennis G. Wilson, Sylvain Cussat-Blanc, Hervé Luga
+17:00-17:30 | **Panel discussions**
