@@ -2,6 +2,8 @@
 layout: home
 ---
 
+<img src="img/devonn_logo.png" height="200px" width="auto" align="right" hspace="20">
+
 # Overview
 
 In nature, brains are built through a process of biological development in which
@@ -33,12 +35,12 @@ abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning
 a variety of neural development topics, from hand-written rules to evolved
 systems, and from conceptual work to experimental results. Accepted submissions
 will be distributed online and presented during the workshop. Abstracts must be
-submitted via email to [devonn@irit.fr](mailto:devonn@irit.fr) by June 3, 2019.
+submitted via email to [devonn@irit.fr](mailto:devonn@irit.fr) by EOD ~~June 3~~ June14, 2019.
 
 ## Important Dates
 
-+ Abstract Submission: June 3, 2019
-+ Author Notification: June 17, 2019
++ Abstract Submission: ~~June 3~~ June 14, 2019
++ Author Notification: ~~June 17~~ June 28, 2019
 + Workshop: Monday July 29, 2019
 + ALIFE: July 29 - August 2, 2019
 
