@@ -1,0 +1,29 @@
+---
+layout: post
+title: "2019 Keynote at the Developmental Neural Networks Workshop"
+date: 2019-07-30
+---
+
+The keynote for the 2nd Developmental Neural Networks Workshop will be given
+jointly
+by [Roman Bauer](https://www.ncl.ac.uk/computing/people/profile/romanbauer.html)
+and
+[Marcus Kaiser](https://www.ncl.ac.uk/computing/people/profile/marcuskaiser.html).
+
+# Connectome Development – From Local Neuronal Links to Global Fibre Tract Brain Networks
+
+Recent experimental advances allow us to study anatomical brain networks. Our
+work on connectomics over the last 15 years has shown a small-world, modular,
+and hub architecture of brain networks. Here, we outline potential principles
+for connectome development. We will describe recent results on how spatial and
+temporal factors shape connectome development and how they relate to brain
+function. In particular, surprisingly simple genetic “rules” can generate
+complex neural structure and function in a self-organising way. Nevertheless, to
+create a deeper understanding of the relationship between the genotype and
+phenotype, it is necessary to bridge the gap between different spatial and
+temporal scales. Along those lines, we present the BioDynaMo software platform,
+which allows to conduct highly detailed, agent-based simulations of neural
+tissue development. We argue that longitudinal studies, experimentally derived
+parameters for connection formation, and biologically realistic computational
+models are needed to better understand the link between brain network
+development, network structure, and network function.

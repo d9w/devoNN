@@ -25,8 +25,24 @@ topic.
 # 2019 Workshop
 
 The 2nd edition of the Developmental Neural Networks Workshop will be held as a
-part of [ALIFE 2019](https://2019.alife.org/) in Newcastle, UK on Monday, July
-29th, 2019.
+part of [ALIFE 2019](https://2019.alife.org/) in Newcastle, UK on Friday, August
+2nd in room NUBS 2.10 from 2-5:30pm.
+
+## Program
+
+14:00-14:20 | **Introduction to Developmental Neural Networks**
+  | Dennis G. Wilson, Julian F. Miller, and Sylvain Cussat-Blanc
+14:20-15:30 | [**Connectome Development – From Local Neuronal Links to Global Fibre Tract Brain Networks**](/devonn/2019/07/30/keynote.html)
+  | Roman Bauer, Marcus Kaiser
+15:30-16:00 | **Break**
+  |
+16:00-16:20 | [**Normalisation of Weights and Firing Rates in Spiking Neural Networks with Spike-Timing-Dependent Plasticity**](/devonn/files/alife2019-kozdon.pdf)
+  | Kasia Kozdon, Peter Bentley
+16:20-16:40 | [**Evolving an artificial brain to solve multiple problems**](/devonn/files/alife2019-miller.pdf)
+  | Julian Miller
+16:40-17:00 | **Learning to Talk in a Gesture-Rich World: Application in Cognitive Robotics**
+  | Gabriella Pizzuto
+17:00-17:30 | **Panel discussions**
 
 ## Submissions
 
@@ -35,13 +51,14 @@ abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning
 a variety of neural development topics, from hand-written rules to evolved
 systems, and from conceptual work to experimental results. Accepted submissions
 will be distributed online and presented during the workshop. Abstracts must be
-submitted via email to [devonn@irit.fr](mailto:devonn@irit.fr) by EOD ~~June 3~~ June14, 2019.
+submitted via email to [devonn@irit.fr](mailto:devonn@irit.fr) by EOD ~~June 3~~
+June 14, 2019.
 
 ## Important Dates
 
 + Abstract Submission: ~~June 3~~ June 14, 2019
 + Author Notification: ~~June 17~~ June 28, 2019
-+ Workshop: Monday July 29, 2019
++ Workshop: August 2, 2019
 + ALIFE: July 29 - August 2, 2019
 
 # Organizers
