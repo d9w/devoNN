@@ -30,7 +30,7 @@ part of [ALIFE 2019](https://2019.alife.org/) in Newcastle, UK on Friday, August
 
 ## Program
 
-14:00-14:20 | **Introduction to Developmental Neural Networks**
+14:00-14:20 | [**Introduction to Developmental Neural Networks**](/devonn/files/wilson_2019_presentation.pdf)
   | Dennis G. Wilson, Julian F. Miller, and Sylvain Cussat-Blanc
 14:20-15:30 | [**Connectome Development – From Local Neuronal Links to Global Fibre Tract Brain Networks**](/devonn/2019/07/30/keynote.html)
   | Roman Bauer, Marcus Kaiser
@@ -38,7 +38,7 @@ part of [ALIFE 2019](https://2019.alife.org/) in Newcastle, UK on Friday, August
   |
 16:00-16:20 | [**Normalisation of Weights and Firing Rates in Spiking Neural Networks with Spike-Timing-Dependent Plasticity**](/devonn/files/alife2019-kozdon.pdf)
   | Kasia Kozdon, Peter Bentley
-16:20-16:40 | [**Evolving an artificial brain to solve multiple problems**](/devonn/files/alife2019-miller.pdf)
+16:20-16:40 | [**Evolving an artificial brain to solve multiple problems**](/devonn/files/alife2019-miller.pdf) ([slides](/devonn/files/miller_2019_presentation.pdf))
   | Julian Miller
 16:40-17:00 | **Learning to Talk in a Gesture-Rich World: Application in Cognitive Robotics**
   | Gabriella Pizzuto
