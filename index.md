@@ -22,44 +22,29 @@ biological, in the context of development. Accepted submissions on contemporary
 work in this field will be presented and we will hold an open discussion on the
 topic.
 
-# 2019 Workshop
+# 2020 Workshop
 
-The 2nd edition of the Developmental Neural Networks Workshop will be held as a
-part of [ALIFE 2019](https://2019.alife.org/) in Newcastle, UK on Friday, August
-2nd in room NUBS 2.10 from 2-5:30pm.
-
-## Program
-
-14:00-14:20 | [**Introduction to Developmental Neural Networks**](/devonn/files/wilson_2019_presentation.pdf)
-  | Dennis G. Wilson, Julian F. Miller, and Sylvain Cussat-Blanc
-14:20-15:30 | [**Connectome Development – From Local Neuronal Links to Global Fibre Tract Brain Networks**](/devonn/2019/07/30/keynote.html)
-  | Roman Bauer, Marcus Kaiser
-15:30-16:00 | **Break**
-  |
-16:00-16:20 | [**Normalisation of Weights and Firing Rates in Spiking Neural Networks with Spike-Timing-Dependent Plasticity**](/devonn/files/alife2019-kozdon.pdf)
-  | Kasia Kozdon, Peter Bentley
-16:20-16:40 | [**Evolving an artificial brain to solve multiple problems**](/devonn/files/alife2019-miller.pdf) ([slides](/devonn/files/miller_2019_presentation.pdf))
-  | Julian Miller
-16:40-17:00 | **Learning to Talk in a Gesture-Rich World: Application in Cognitive Robotics**
-  | Gabriella Pizzuto
-17:00-17:30 | **Panel discussions**
+The 3rd edition of the Developmental Neural Networks Workshop will be held as a
+part of [ALIFE 2020](https://2020.alife.org/) in its virtual format. More
+details coming soon about how this virtual workshop will take place.
 
 ## Submissions
 
 We welcome anyone to participate and encourage the submission of extended
-abstracts of 2-4 pages (MIT Press format). We are open to submissions concerning
-a variety of neural development topics, from hand-written rules to evolved
-systems, and from conceptual work to experimental results. Accepted submissions
-will be distributed online and presented during the workshop. Abstracts must be
-submitted via email to [devonn@irit.fr](mailto:devonn@irit.fr) by EOD ~~June 3~~
-June 14, 2019.
+abstracts of 2-4 pages (MIT Press format). We are open to submissions
+concerning a variety of neural development topics, from hand-written rules to
+evolved systems, and from conceptual work to experimental results. Accepted
+submissions will be distributed online and presented during the workshop.
+Abstracts must be submitted via email to
+[devonn@irit.fr](mailto:devonn@irit.fr) by June 15th, 2020 UTC-12. This
+deadline will not be extended.
 
 ## Important Dates
 
-+ Abstract Submission: ~~June 3~~ June 14, 2019
-+ Author Notification: ~~June 17~~ June 28, 2019
-+ Workshop: August 2, 2019
-+ ALIFE: July 29 - August 2, 2019
++ Abstract Submission: June 15, 2020
++ Author Notification: July 1, 2020
++ Workshop: TBD
++ ALIFE: July 13-18, 2020
 
 # Organizers
 
