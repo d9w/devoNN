@@ -1,0 +1,31 @@
+---
+layout: post
+title: "Multiple problem solving with evolved developmental neural networks: activity dependence"
+date: 2020-07-13
+---
+
+Julian Francis Miller
+
+[pdf](/devonn/files/2020/miller_final.pdf)
+
+Abstract:
+We construct artificial neural networks (ANNs) by executing
+evolved programs inside two neural components: the body
+(soma) and the dendrite. The programs decide whether neu-
+rons and their dendrites move, change, die or replicate. When
+the programs are executed they build a neural structure from
+which multiple conventional ANNs can be extracted each of
+which can solve a different computational problem. In bi-
+ological brain development electrical activity strongly influ-
+ences developmental changes. This is known as activity de-
+pendence. In this paper, we describe various ways activity de-
+pendence could be implemented and investigated. We show
+that allowing the soma bias to be activity dependent improves
+performance.
+
+
+<video width="640" height="480" controls>
+  <source src="/devonn/files/2020/miller_video.mp4" type="video/mp4">
+</video> 
+
+Part of the [2020 Workshop](/devonn/2020/07/13/alife.html) on Developmental Neural Networks

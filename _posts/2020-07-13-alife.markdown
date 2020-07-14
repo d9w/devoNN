@@ -1,0 +1,26 @@
+---
+layout: post
+title: "2020 Workshop on Developmental Neural Networks"
+date: 2020-07-13
+---
+
+The 3rd edition of the Developmental Neural Networks Workshop will be held as a
+part of [ALIFE 2020](https://2020.alife.org/). You can find all presentations
+and articles below and we encourage participants to watch all videos before the
+workshop or during the first section of the workshop, which will be a communal
+viewing of the presentations with discussion on Slack. The second part of the
+workshop will be a live discussion session in Virtual Lecture Hall B, starting
+with a dedicated Q&A session for each presentation and ending with a panel
+discussion on developmental neural networks.
+
+Throughout ALIFE, please come discuss this workshop and topic in the
+#workshop-DevoNN Slack channel.
+
+## Program
+
+10:00-11:30 EDT | Live viewing of presentations |
+11:30-11:45 EDT | Q&A for Keynote presentation [**Neuromorphic computers, brains and development: unifying principles and distinctive differences**](/devonn/2020/07/13/laughlin.html) | Simon Laughlin | [pdf](/devonn/files/2020/laughlin_final.pdf) | [video](/devonn/2020/07/13/laughlin.html)
+11:45-11:55 EDT | Q&A for [**Developmental neuronal networks as models to study the evolution of biological intelligence**](/devonn/2020/07/13/hintze.html) | Arend Hintze, P. Robin Hiesinger, Jory Schossau  | [pdf](/devonn/files/2020/hintze_final.pdf) | [video](/devonn/2020/07/13/hintze.html)
+11:55-12:05 EDT | Q&A for [**Multiple problem solving with evolved developmental neural networks: activity dependence**](/devonn/2020/07/13/miller.html) | Julian Francis Miller | [pdf](/devonn/files/2020/miller_final.pdf) | [video](/devonn/2020/07/13/miller.html)
+12:05-12:15 EDT | Q&A for [**Developmental Embodied Agents as Meta-brain Models**](/devonn/2020/07/13/alicea.html) | Bradly Alicea et al. | [pdf](/devonn/files/2020/alicea_final.pdf) | [video](/devonn/2020/07/13/alicea.html)
+12:15-13:00 EDT | Panel discussion on developmental neural networks |

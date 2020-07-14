@@ -1,0 +1,40 @@
+---
+layout: post
+title: "Developmental neuronal networks as models to study the evolution of biological intelligence"
+date: 2020-07-13
+---
+
+Arend Hintze, P. Robin Hiesinger, Jory Schossau
+
+[pdf](/devonn/files/2020/hintze_final.pdf)
+
+Abstract: Artificial neural networks (ANNs) learn through iterative ad-
+justment of synaptic weights, most commonly by backprop-
+agation or similar training methods. By contrast, learning in
+the neuro-evolution approach of ANNs as well as in biolog-
+ical neural networks can also be achieved through iterative
+adjustment of synaptic weights based on mutational changes
+of a genome. Evolutionary learning of ANNs is typically
+based on changes in the genome that directly affect synap-
+tic weights, while the biological genome affects changes to
+synaptic weights through indirect and developmental encod-
+ing of the molecular composition of synapses. Methods for
+indirect and developmental encoding in ANNs are compara-
+bly scarce and their constraints and advantages remain in-
+completely explored. Here, we identify robustness to en-
+vironmental challenges as a key feature associated with in-
+direct and developmental encoding using a neuro-evolution
+approach. In biological systems, the developmental process
+’unfolds’ synaptic connectivity information in a time- and
+energy-consuming process that is sensitive to environmental
+conditions like temperature. Our tests for robustness to devel-
+opmental temperature reveal successful adaptation for indi-
+rect encoding followed by a developmental process compared
+to lower performance of developmental or indirect encoding
+alone. These findings set the stage for a more comprehensive
+neuro-evo-devo approach that acknowledges the necessity of
+neural network development for biological intelligence.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/CmYg4N8ZkQ8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Part of the [2020 Workshop](/devonn/2020/07/13/alife.html) on Developmental Neural Networks

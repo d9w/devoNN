@@ -1,0 +1,16 @@
+---
+layout: post
+title: "Neuromorphic computers, brains and development: unifying principles and distinctive differences"
+date: 2020-07-13
+---
+
+[Simon Laughlin](https://www.neuroscience.cam.ac.uk/directory/profile.php?SL104)
+Department of Zoology, University of Cambridge, U.K.
+
+[pdf](/devonn/files/2020/laughlin_final.pdf)
+
+<video width="640" height="480" controls>
+  <source src="/devonn/files/2020/laughlin_video.mp4" type="video/mp4">
+</video> 
+
+Keynote presentation of the [2020 Workshop](/devonn/2020/07/13/alife.html) on Developmental Neural Networks
